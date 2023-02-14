@@ -1,5 +1,13 @@
 ### Hi there 👋
-<p> im gay</p>
+<div aligne='center'> i'm an artist and a dev ! </div>
+
+- 🤖 I’m the designer/artist of [Feuroléon](https://github.com/minethandev/Feuroleon)
+- i'm gay
+
+<td valign="top" width="50%">
+  
+  
+
 
 
 <!--
