@@ -3,7 +3,8 @@
 
 - 🤖 I’m the designer/artist of [Feuroléon](https://github.com/minethandev/Feuroleon)
 - (●'◡'●) I've made a game with my school team ! [Pfa_Iron_FLower](https://github.com/lalyfxx/PFA_Iron_Flower) (made in c#)
-- 
+- jameuse intempestive (je suis la pour faire des jeux un peu nul)
+  
   
   
 
