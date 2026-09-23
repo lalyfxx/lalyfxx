@@ -21,7 +21,7 @@ Hi! I'm **Lily**, a 2nd year student game developer passionate about 2D/3D art a
 
 I love building games from scratch, from code to sound design and 3D modeling.
 
-I also love Game Jams 🫶A
+I also love Game Jams 🫶
 
 ---
 
